@@ -1,15 +1,22 @@
 body{
-    padding: 5px;
-    border: 10px black;
-}
-form{
-        border: 2.5px green ;
+        color: green;
         border-style: solid;
 }
 .btnSubmit{
     width: 150px;
     height: 50px;
 }
-   // Place all the styles related to the LogIn controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+h1{
+    font-family: "Enriqueta";
+    font-size: 53px;
+    color:rgb(89,78,72);
+}
+h2{
+    font-family:'Enriqueta';
+    font-size:45;
+    color:rgb(89,78,72);
+    }
+.button{
+    background-color:#323232;
+    color: white;
+}
